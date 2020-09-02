@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Hub Spot Regression Suite" duration-ms="15112" started-at="2020-09-02T13:09:04Z" finished-at="2020-09-02T13:09:20Z">
+    <groups>
+    </groups>
+    <test name="Hub Spot Functional Regression Test" duration-ms="15112" started-at="2020-09-02T13:09:04Z" finished-at="2020-09-02T13:09:20Z">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@47dbb1e2]" name="setUp" is-config="true" duration-ms="7878" started-at="2020-09-02T13:09:05Z" finished-at="2020-09-02T13:09:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@47dbb1e2]" name="verifyLoginPageTitleTest" duration-ms="6072" started-at="2020-09-02T13:09:13Z" description="verify login page title test.....!!!" finished-at="2020-09-02T13:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@47dbb1e2]" name="tearDown" is-config="true" duration-ms="762" started-at="2020-09-02T13:09:19Z" finished-at="2020-09-02T13:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- Hub Spot Functional Regression Test -->
+  </suite> <!-- Hub Spot Regression Suite -->
+</testng-results>

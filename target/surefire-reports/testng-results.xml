@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Hub Spot Regression Suite" duration-ms="15112" started-at="2020-09-02T13:09:04Z" finished-at="2020-09-02T13:09:20Z">
+  <suite name="Hub Spot Regression Suite" duration-ms="17964" started-at="2020-09-07T11:42:13Z" finished-at="2020-09-07T11:42:31Z">
     <groups>
     </groups>
-    <test name="Hub Spot Functional Regression Test" duration-ms="15112" started-at="2020-09-02T13:09:04Z" finished-at="2020-09-02T13:09:20Z">
+    <test name="Hub Spot Functional Regression Test" duration-ms="17964" started-at="2020-09-07T11:42:13Z" finished-at="2020-09-07T11:42:31Z">
       <class name="com.qa.hubspot.tests.LoginPageTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@47dbb1e2]" name="setUp" is-config="true" duration-ms="7878" started-at="2020-09-02T13:09:05Z" finished-at="2020-09-02T13:09:13Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@58a55449]" name="setUp" is-config="true" duration-ms="8689" started-at="2020-09-07T11:42:13Z" finished-at="2020-09-07T11:42:22Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@47dbb1e2]" name="verifyLoginPageTitleTest" duration-ms="6072" started-at="2020-09-02T13:09:13Z" description="verify login page title test.....!!!" finished-at="2020-09-02T13:09:19Z">
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@58a55449]" name="verifyLoginPageTitleTest" duration-ms="8264" started-at="2020-09-07T11:42:22Z" description="verify login page title test.....!!!" finished-at="2020-09-07T11:42:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@47dbb1e2]" name="tearDown" is-config="true" duration-ms="762" started-at="2020-09-02T13:09:19Z" finished-at="2020-09-02T13:09:20Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@58a55449]" name="tearDown" is-config="true" duration-ms="680" started-at="2020-09-07T11:42:30Z" finished-at="2020-09-07T11:42:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
